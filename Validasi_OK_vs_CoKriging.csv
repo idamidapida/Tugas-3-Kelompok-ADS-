@@ -1,0 +1,3 @@
+Metode,Model,MAE,RMSE,ME,R2
+Ordinary Kriging,Spherical,1.5443,2.065,0.0367,0.2564
+Co-Kriging,Exponential,1.4839,1.8716,0.0892,0.3892
